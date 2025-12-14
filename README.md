@@ -76,8 +76,8 @@ Have you ever:
 - [Chapter 2: Defining Core vs Infrastructure Code](docs/02-core-vs-infrastructure.md)
 
 ### 🎯 Domain Modeling
-- Chapter 3: Domain Models in TypeScript *(coming soon)*
-- Chapter 4: Domain Models in Elixir *(coming soon)*
+- [Chapter 3: Domain Models in TypeScript](docs/03-domain-models-typescript.md)
+- [Chapter 4: Domain Models in Elixir](docs/04-domain-models-elixir.md)
 
 ### 🔧 Patterns & Practices
 - Chapter 5: Repository Pattern in React *(coming soon)*
