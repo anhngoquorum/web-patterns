@@ -86,7 +86,7 @@ Have you ever:
 - [Chapter 8: Command Pattern](docs/08-command-pattern.md)
 
 ### 🏗️ Architecture
-- Chapter 9: Layered Architecture *(coming soon)*
+- [Chapter 9: Layered Architecture](docs/09-layered-architecture.md)
 - Chapter 10: Hexagonal Architecture *(coming soon)*
 - Chapter 11: Testing Strategies *(coming soon)*
 
