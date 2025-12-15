@@ -80,7 +80,7 @@ Have you ever:
 - [Chapter 4: Domain Models in Elixir](docs/04-domain-models-elixir.md)
 
 ### 🔧 Patterns & Practices
-- Chapter 5: Repository Pattern in React *(coming soon)*
+- [Chapter 5: Repository Pattern in React](docs/05-repository-pattern-react.md)
 - Chapter 6: Repository Pattern in Elixir *(coming soon)*
 - Chapter 7: Application Services *(coming soon)*
 - Chapter 8: Command Pattern *(coming soon)*
