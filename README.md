@@ -83,7 +83,7 @@ Have you ever:
 - [Chapter 5: Repository Pattern in React](docs/05-repository-pattern-react.md)
 - [Chapter 6: Repository Pattern in Elixir](docs/06-repository-pattern-elixir.md)
 - [Chapter 7: Application Services](docs/07-application-services.md)
-- Chapter 8: Command Pattern *(coming soon)*
+- [Chapter 8: Command Pattern](docs/08-command-pattern.md)
 
 ### 🏗️ Architecture
 - Chapter 9: Layered Architecture *(coming soon)*
