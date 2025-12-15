@@ -91,8 +91,8 @@ Have you ever:
 - [Chapter 11: Testing Strategies](docs/11-testing-strategies.md)
 
 ### 🔄 Refactoring
-- Chapter 12: Refactoring React Code *(coming soon)*
-- Chapter 13: Refactoring Elixir Code *(coming soon)*
+- [Chapter 12: Refactoring React Code](docs/12-refactoring-react-code.md)
+- [Chapter 13: Refactoring Elixir Code](docs/13-refactoring-elixir-code.md)
 
 ### 📚 Reference
 - Architecture Diagrams *(coming soon)*
