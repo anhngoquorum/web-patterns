@@ -2021,7 +2021,7 @@ Start by:
 
 ---
 
-**Next**: Chapter 11: Testing Strategies *(coming soon)*  
+**Next**: [Chapter 11: Testing Strategies](11-testing-strategies.md)  
 **Previous**: [Chapter 9: Layered Architecture](09-layered-architecture.md)
 
 *The best architecture is the one that makes your application easy to change. Hexagonal Architecture gives you that flexibility by making every external dependency pluggable through well-defined ports.* ✨
