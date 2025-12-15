@@ -87,7 +87,7 @@ Have you ever:
 
 ### 🏗️ Architecture
 - [Chapter 9: Layered Architecture](docs/09-layered-architecture.md)
-- Chapter 10: Hexagonal Architecture *(coming soon)*
+- [Chapter 10: Hexagonal Architecture (Ports & Adapters)](docs/10-hexagonal-architecture.md)
 - Chapter 11: Testing Strategies *(coming soon)*
 
 ### 🔄 Refactoring
